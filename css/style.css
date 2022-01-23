@@ -1,4 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
- body {
-     font-family: 'Poppins', sans-serif;
- }
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.slider img {
+  width: 1440px;
+  height: 650px;
+  object-fit: cover;
+}
