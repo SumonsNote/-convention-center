@@ -8,3 +8,11 @@ body {
   height: 650px;
   object-fit: cover;
 }
+.pricing {
+  background: #f496d25d;
+  color: #32a2e2;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 24px;
+  border: 0;
+}
